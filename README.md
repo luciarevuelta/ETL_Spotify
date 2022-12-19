@@ -4,4 +4,7 @@ En este repositorio, realizo un proceso ETL basado en los datos de la API de Spo
 
 Se trata de un ejercicio básico que permite adquirir unas nociones básicas de como funciona un flujo de datos de estas características, a parte de tener un pequeño bagaje relacionado con la ingeniería de datos.
 
+
+La primera parte consiste en crear un programa que descargue los datos de mi cuenta de Spotify (canciones,hora de escucha, cantente, etc) y luego guarde esos datos en una base de datos relacional. La idea es que cada día que vamos escuchando más y más canciones se vayan guardando en la base de datos. Si dejamos el programa encendido por años, luego podríamos mirar todos los datos generados.
+
 Para generar el token de Spotify API: https://developer.spotify.com/console/get-recently-played/
